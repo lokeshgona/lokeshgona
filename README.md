@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lokeshgona
 - 👀 I’m interested in AI, Robotics and Electric Vehicles
 - 🌱 I’m currently working on designing systems for Safe and Efficient control of Electric vehicle motors
-- 💞️ I’m looking to collaborate on Robotics AI
+- 💞️ I’m looking to collaborate on Artificial Intelligence for Robotics
 - 📫 Reach me at lokeshgona@gmail.com, www.linkedin.com/in/lokeshgona
 
 <!---
